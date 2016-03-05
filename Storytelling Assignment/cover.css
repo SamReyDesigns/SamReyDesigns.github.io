@@ -1,0 +1,83 @@
+/* CSS Document */
+
+body {
+	color: #40C0D3;
+	background-color:#A5D7EE;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1 {font-size: 100px;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: uppercase;
+	border-bottom: 1px solid #40C0D3;
+	font-weight: 100
+	}
+
+#one{
+	font-size: 24px;
+	background-color: #A5D7EE
+}
+
+
+#two{	
+	color: #40C0D3;
+	text-align: center;	
+	
+	 font-size: 24px;
+	background-color: #A5D7EE
+}
+
+	
+#three{ 	color: #40C0D3;
+	text-align: center;	
+	 font-size: 24px;
+	background-color: #A5D7EE
+}
+	
+	
+#four{	color: #40C0D3;
+	text-align: center;	
+	 font-size: 24px;
+	background-color: #A5D7EE
+	}
+
+#five{	color: #40C0D3;
+	text-align: center;	
+    font-size: 24px;
+	background-color: #A5D7EE
+
+}
+
+#six{	color: #40C0D3;
+	text-align: center;	
+	font-size: 24px;
+	background-color: #A5D7EE
+}
+
+#seven{	color: #40C0D3;
+	text-align: center;	
+	font-size: 24px;
+	background-color: #A5D7EE
+}
+
+#eight{	color: #40C0D3;
+	text-align: center;	
+	font-size: 24px;
+	background-color: #A5D7EE
+}
+
+#nine{	color: #40C0D3;
+	text-align: center;	
+	font-size: 24px;
+	background-color: #A5D7EE
+}
+
+
+#ten{	color: #40C0D3;
+	text-align: center;	
+	font-size: 24px;
+	background-color: #A5D7EE
+}
+
+
+
