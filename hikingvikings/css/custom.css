@@ -140,14 +140,7 @@ text-align:right}
 .box-left {
 }
 .banner {
-}
-.fsbgb {
-}
-.container {
-}
-#text {
-}
-#bannerimg {
-}
-.bannerimg {
+	 display: block;
+    margin-left: auto;
+    margin-right: auto }
 }
