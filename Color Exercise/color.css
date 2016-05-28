@@ -1,7 +1,20 @@
 /* CSS Document */
 
 body {color: gray;
-background-color: white;
+
+Portrait
+
+Colour 1: #8e9eab
+
+Colour 2: #eef2f3
+
+Get the CSS Code
+
+
+
+background: #8e9eab; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #8e9eab , #eef2f3); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #8e9eab , #eef2f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 border: 10px solid 
 rgba(156,219,255,1.00);}
 
@@ -19,19 +32,20 @@ color: yellow;}
 }
 .primary {background-color: yellow;
 }
-.secondary {border: #9900ff;
+.secondary {color: #9900ff;
 }
-.tertiary {
+.tertiary {color: white;
+background-color: #07A8E2
 }
 .colormodels {color: maroon; 
 }
-.Analogous {
+.Analogous {color:#F093E8;
 }
-.Monochromatic {
+.Monochromatic {color: #FAEBD7;
 }
-.Triadic {
+.Triadic {color: #CD5C5C;
 }
-.Complementary {
+.Complementary {color: #9C9C9C;
 }
 .red {color: red;
 }
@@ -50,5 +64,7 @@ color: yellow;}
 .white {color: white;
 background-color: #00bbd6;
 }
-.sources {
+.sources {color: #BBFED3;
+}
+.examples {color: #9D5A01;
 }
