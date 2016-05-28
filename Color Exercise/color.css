@@ -1,0 +1,54 @@
+/* CSS Document */
+
+body {color: gray;
+background-color: white;
+border: 10px solid 
+rgba(156,219,255,1.00);}
+
+h1 {color:#f3afcb;}
+
+.additive {color:blue;
+color:green;
+color:red;}
+
+.subtractive {color: #00FFFF;
+color: #FF00FF;
+color: yellow;}
+
+.theoryofcolor {color: rgba(168,112,113,1.00)
+}
+.primary {background-color: yellow;
+}
+.secondary {border: #9900ff;
+}
+.tertiary {
+}
+.colormodels {color: maroon; 
+}
+.Analogous {
+}
+.Monochromatic {
+}
+.Triadic {
+}
+.Complementary {
+}
+.red {color: red;
+}
+.orange {color: orange;
+}
+.yellow {color: yellow;
+}
+.green {color: green;
+}
+.blue {color: blue;
+}
+.violet {color: violet;
+}
+.black {color: black;
+}
+.white {color: white;
+background-color: #00bbd6;
+}
+.sources {
+}

@@ -2,7 +2,15 @@
 
 body {
 background-color:#EFB1B2;
-color:#4458B7; 
+color: rgba(237,28,160,1.00); 
 font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+font-size: 18px;
+}
 
+h1 { font-size: 36px;
+color:rgba(4,78,151,1.00);}
+
+h4 { background-color: rgba(87,104,185,1.00)
+
+h3 {font-size: 24px;
 }

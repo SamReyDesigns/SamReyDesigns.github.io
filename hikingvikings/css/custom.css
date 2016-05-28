@@ -1,0 +1,153 @@
+/* CSS Document */
+
+/* helper style */
+.col {
+		box-sizing: border-box;}
+
+/* main styles */
+
+body { 
+
+font-family: 'Marcellus SC', serif;
+font-size: 16px;
+padding: inherit;
+margin: auto; 
+}
+
+
+
+#Fsbgb {
+	width: 100%;
+	height: auto;
+	z-index:-100;
+	position:fixed;
+	min-height:100%;
+	min-width:1040px;
+}
+
+header {
+	font-family: 'Marcellus SC', serif;
+	font-size:large;
+	height: 11em; 
+	text-align: center;
+	padding: 2em;
+	background: #C9F4FF;
+	margin-bottom: 1em;
+	font-weight: bold;
+	
+}
+
+#container {
+	width: 90%;
+	margin: 0 auto;
+	
+}
+
+nav {
+	margin-bottom: .5em;	
+
+}
+a:visited { 
+    color: #022A0D;
+}
+
+nav .col{ 
+	
+	border: 2px solid #0C2C56;
+	border: double #08469A;
+	text-align: center;
+	box-sizing: border-box;
+	padding: .5em;
+	font-weight: bold;
+}
+
+
+
+#banner { 
+	height: auto;
+	margin-bottom: .5em;
+	background:none;
+	max-width:100%;}
+
+
+#text{ background: #9CDBFF;
+ opacity: 0.85;
+ /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b2e1ff+0,66b6fc+100;Blue+3D+%236 */
+background: rgb(178,225,255); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(178,225,255,1) 0%, rgba(102,182,252,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(178,225,255,1) 0%,rgba(102,182,252,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(178,225,255,1) 0%,rgba(102,182,252,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b2e1ff', endColorstr='#66b6fc',GradientType=0 ); /* IE6-9 */
+}
+
+
+
+#main .col { 
+	height: auto;
+}
+
+/* type styles */
+
+h1 { 
+	font-size: 4.5em; /* 3*16=48px */
+	font-weight: 200;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	margin-bottom: .1em;
+}
+
+header h2 { 
+	font-size: .85em;
+	text-transform: uppercase;
+	font-family: 'Playfair Display SC', serif;
+
+}
+
+h2 {
+	font-size: 2em; 
+	margin-bottom: 1em;
+	}
+
+p { 
+	line-height:1em;
+	margin-bottom: 1em;
+	text-align: left;
+	margin:25px;}
+
+ul {
+	list-style-type: none;
+
+	}
+	
+li { 
+ 	padding-bottom: 1em;
+}
+
+li: first-child { border-top: 1px solid #08116F;
+}
+
+footer {
+margin-bottom: 20em;
+	line-height:1em;
+	width: 90%;
+	margin: 0 auto;
+color: #00015B;
+font-size:13px;
+text-transform: uppercase;
+display:block;
+text-align:right}
+
+.box-left {
+}
+.banner {
+}
+.fsbgb {
+}
+.container {
+}
+#text {
+}
+#bannerimg {
+}
+.bannerimg {
+}
